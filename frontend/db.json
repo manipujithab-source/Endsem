@@ -1,0 +1,113 @@
+{
+  "foodItems": [
+    {
+      "id": 1,
+      "name": "Idli",
+      "price": 40,
+      "category": "South Indian"
+    },
+    {
+      "id": 2,
+      "name": "Dosa",
+      "price": 60,
+      "category": "South Indian"
+    },
+    {
+      "id": 3,
+      "name": "Masala Dosa",
+      "price": 80,
+      "category": "South Indian"
+    },
+    {
+      "id": 4,
+      "name": "Veg Meals",
+      "price": 120,
+      "category": "South Indian"
+    },
+    {
+      "id": 5,
+      "name": "Chicken Biryani",
+      "price": 180,
+      "category": "South Indian"
+    },
+    {
+      "id": 6,
+      "name": "Pongal",
+      "price": 50,
+      "category": "South Indian"
+    },
+    {
+      "id": 7,
+      "name": "Paneer Butter Masala",
+      "price": 180,
+      "category": "North Indian"
+    },
+    {
+      "id": 8,
+      "name": "Butter Naan",
+      "price": 40,
+      "category": "North Indian"
+    },
+    {
+      "id": 9,
+      "name": "Chole Bhature",
+      "price": 100,
+      "category": "North Indian"
+    },
+    {
+      "id": 10,
+      "name": "Dal Makhani",
+      "price": 150,
+      "category": "North Indian"
+    },
+    {
+      "id": 11,
+      "name": "Roti",
+      "price": 25,
+      "category": "North Indian"
+    },
+    {
+      "id": 12,
+      "name": "Veg Pulao",
+      "price": 120,
+      "category": "North Indian"
+    },
+    {
+      "id": 13,
+      "name": "Burger",
+      "price": 120,
+      "category": "Western"
+    },
+    {
+      "id": 14,
+      "name": "Pizza",
+      "price": 250,
+      "category": "Western"
+    },
+    {
+      "id": 15,
+      "name": "French Fries",
+      "price": 100,
+      "category": "Western"
+    },
+    {
+      "id": 16,
+      "name": "Sandwich",
+      "price": 80,
+      "category": "Western"
+    },
+    {
+      "id": 17,
+      "name": "Pasta",
+      "price": 150,
+      "category": "Western"
+    },
+    {
+      "id": 18,
+      "name": "Ice Cream",
+      "price": 60,
+      "category": "Western"
+    }
+  ],
+  "orders": []
+}

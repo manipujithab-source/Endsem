@@ -1,0 +1,100 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f3f4f6;
+  color: #222;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 25px;
+}
+
+h1 {
+  text-align: center;
+  color: #d35400;
+}
+
+.subtitle {
+  text-align: center;
+  color: #666;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+.menu {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.food-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.food-card h3 {
+  margin-bottom: 10px;
+}
+
+.food-card p {
+  color: #d35400;
+  font-weight: bold;
+}
+
+.quantity {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.quantity button {
+  background: #d35400;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.quantity span {
+  font-weight: bold;
+}
+
+.bill {
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  margin-top: 15px;
+}
+
+.order-btn {
+  background: #218838;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.message {
+  color: #218838;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+button:hover {
+  opacity: 0.85;
+}
